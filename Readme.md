@@ -30,12 +30,6 @@ The model consists of three primary components:
 - The VAEs are pre-trained separately before being integrated into the Transformer model.
 - The Transformer and classification head are trained using standard classification loss functions, such as cross-entropy.
 
-## Applications
-This model can be used in:
-- **Elderly care monitoring** for automatic fall detection.
-- **Surveillance systems** for real-time fall detection.
-- **Healthcare applications** for fall risk assessment and injury prevention.
-
 ## Results
 The following image shows the training progress of the model:
 
